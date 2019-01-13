@@ -1,0 +1,47 @@
+baseurl = "http://www.karan.sh/"
+title = "Karan Shah"
+theme = "nix"
+languageCode = "en-us"
+#disqusShortname = "your_disqus_shortname"
+GoogleAnalytics = "UA-112625566-1"
+
+[menu]
+  [[menu.header]]
+    name = "Contact"
+    weight = 0
+    url = "/contact"
+  [[menu.header]]
+    name = "Projects"
+    weight = 4
+    url = "/project"
+    [[menu.header]]
+    name = "CV"
+    weight = 3
+    url = "/cv"
+    [[menu.header]]
+    name = "Research"
+    weight = 2
+    url = "/research"
+    [[menu.header]]
+    name = "Education"
+    weight = 1
+    url = "/education"
+
+[params]
+  Email = "kshah84@mail.gatech.edu"
+  GithubID = "karanprime"
+  #TwitterID = "your_twitter"
+  LinkedInID = "karanprime"
+  #GoogleplusID = "your_googleplus"
+  #FacebookID = "your_facebook"
+  TelegramID = "your_telegram"
+  Name = "Karan Shah"
+  HeaderUsername = "karan"
+  HeaderHostname = "rocinante"
+  About = "I am a graduate student in Computational Science & Engineering at Georgia Institute of Technology. "
+  About2 = "I also work part time at Lawrence Livermore National Laboratory as a technical scholar in the Physics division."
+  About3 = "The site, like me, is perpetually under construction."
+
+  ProfilePicture = "/profile.jpg"
+  #SlackURL = "your_slack_invite_url"
+
