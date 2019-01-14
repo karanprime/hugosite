@@ -22,5 +22,5 @@ Application area: Cosmology
 Title:  __“Analysis of Uncertainty in Machine Learned Density Functionals”__
 
 Advisor: Dr. Andrew Medford
-### Recieved May 2018
+### Received May 2018
 
