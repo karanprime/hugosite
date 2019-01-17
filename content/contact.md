@@ -6,7 +6,7 @@ menu = "main"
 
 E-mail:
 
-* kshah84 [at] mail [dot] gatech [dot] edu
+* shah [at] gatech [dot] edu
 * shah30 [at] llnl [dot] gov
 
 Phone:
