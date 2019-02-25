@@ -7,12 +7,13 @@ menu = "main"
 # Georgia Institute of Technology
 Atlanta, GA
 
+
 ## MS in Computational Science & Engineering
 Specialization area: Machine Learning
 
 Application area: Cosmology
+### In Progress
 
-### Expected December 2019
 ---
 
 ## BS in Physics
